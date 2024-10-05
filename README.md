@@ -48,7 +48,7 @@ First user to register is given admin access by default. Rest of the users do no
 #### 1. [Setup Flutter](https://flutter.dev/docs/get-started/install)
 #### 2. Clone the repo
 ```
-$ https://github.com/arjun-14/housingsociety.git
+$ https://github.com/devilGamer5802/Housing-Society-Management-App.git
 ```
 #### 3. [Setup Firebase and firestore](https://firebase.google.com/)
 * Enable authentication (email/ password)
