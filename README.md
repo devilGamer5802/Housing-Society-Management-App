@@ -5,11 +5,11 @@ Housing Society Management Application written in Flutter.
 ## Screenshots
 |Profile  									                    |Chat                                        |Notice                                        |
 |-----------------------------------------------|--------------------------------------------|----------------------------------------------|
-|<img src='screenshots/profile.gif' width='250'>|<img src='screenshots/chat.gif' width='250'>|<img src='screenshots/notice.gif' width='250'>|
+|<img src='screenshot/profile.gif' width='250'>|<img src='screenshot/chat.gif' width='250'>|<img src='screenshot/notice.gif' width='250'>|
 |Complaints								                      |Voting                                      |Contacts                                        |
-|<img src='screenshots/complaints.gif' width='250'>|<img src='screenshots/voting.gif' width='250'>|<img src='screenshots/contacts.gif' width='250'>|
+|<img src='screenshot/complaints.gif' width='250'>|<img src='screenshot/voting.gif' width='250'>|<img src='screenshot/contacts.gif' width='250'>|
 |Social Media 									                   |Health                                        |Visitor                                        |
-|<img src='screenshots/social.gif' width='250'>    |<img src='screenshots/health.gif' width='250'>|<img src='screenshots/visitor.gif' width='250'>|
+|<img src='screenshot/social.gif' width='250'>    |<img src='screenshot/health.gif' width='250'>|<img src='screenshot/visitor.gif' width='250'>|
 
 ## Demo
 [Download the release apk to try out the application](https://github.com/arjun-14/housingsociety/releases/download/1.0.0/app-release.apk)
